@@ -1,0 +1,50 @@
+img{
+    height: 350px;
+    width: 370px;
+}
+button{
+    font-weight: bold!important;
+    color: white!important;
+    width: 130px;
+    letter-spacing: 3px;
+    margin-top: 15px;
+}
+#ft{
+    background-color: rgba(255, 255, 255, 0.696);
+    padding: 10px;
+    margin: 0px;
+    color: firebrick;
+}
+#ft p{
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(134, 249, 197);
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    color: red;
+    font-weight: bold;
+}
+p{
+    color: grey;
+    font-weight: bold;
+}
+h3{
+
+    font-family: 'Rubik Glitch', cursive;
+}
+#footer{
+    background-color: rgba(255, 255, 255, 0.696);
+    padding: 10px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
+
